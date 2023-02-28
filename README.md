@@ -10,6 +10,7 @@
 - Matplotlib
 - Seaborn
 - Sklearn
+- ImbLearn
 
 ### Compared Models:
 - LogisticRegression
